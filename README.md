@@ -4,8 +4,7 @@ A engenharia de dados é a prática de projetar e construir sistemas para **cole
 
 ## Tecnologias e Ferramentas
 
-```[tasklist]
-### Linguagens
+### Linguagens de Programação
 - [x] <img src="https://user-images.githubusercontent.com/128917882/232513497-eece3f7d-9fdf-4b4e-9149-4e73083f6cda.png" width="10" /> Python 
 - [x] <img src="https://user-images.githubusercontent.com/128917882/232516806-5302ba0d-443e-4290-a8dc-9ab189626d65.png" width="10" /> Java 
 - [ ] Scala
